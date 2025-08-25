@@ -1,0 +1,5 @@
+# Tests unitarios para componentes individuales
+# Cobertura requerida según ISO 62304:
+# - Clase A (críticos): ≥95% cobertura
+# - Clase B (no críticos): ≥85% cobertura  
+# - Clase C (sin impacto): ≥70% cobertura

@@ -1,0 +1,5 @@
+# Datos de prueba y fixtures médicos
+# Contiene:
+# - Datos ECG sintéticos para testing
+# - Simuladores de dispositivos Holter
+# - Datos mock de pacientes (sin PHI real)

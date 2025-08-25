@@ -1,0 +1,7 @@
+# Scripts de desarrollo para Holter Medical Software
+# Este directorio contiene scripts automatizados para:
+# - setup-dev-env.sh: Configuración del entorno de desarrollo
+# - run-tests.sh: Ejecutor de tests con opciones ISO 62304
+# - check-quality.sh: Verificación de calidad de código médico
+# - validate-medical.sh: Validaciones específicas ISO 62304
+# - cleanup.sh: Limpieza de archivos temporales

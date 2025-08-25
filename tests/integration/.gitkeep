@@ -1,0 +1,5 @@
+# Tests de integración entre módulos
+# Valida:
+# - Comunicación entre componentes médicos
+# - Flujos de trabajo completos de análisis ECG
+# - Integridad de datos médicos

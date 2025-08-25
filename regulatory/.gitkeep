@@ -1,0 +1,8 @@
+# Documentación regulatoria ISO 62304
+# Estructura futura:
+# - software_requirements/: Especificaciones funcionales y de seguridad
+# - risk_analysis/: Análisis de riesgos ISO 14971
+# - verification_plans/: Planes de verificación y validación
+# - validation_reports/: Reportes de validación clínica
+# - change_control/: Control de cambios
+# - traceability_matrix/: Matrices de trazabilidad

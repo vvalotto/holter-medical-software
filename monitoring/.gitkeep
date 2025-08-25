@@ -1,0 +1,4 @@
+# Configuración de monitoreo
+# - prometheus.yml
+# - grafana/dashboards/
+# - alerts/medical_alerts.yml

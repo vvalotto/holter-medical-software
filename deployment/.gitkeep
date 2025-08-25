@@ -1,0 +1,6 @@
+# Archivos de deployment
+# Estructura futura:
+# - docker/: Configuraciones de contenedores
+# - k8s/: Manifiestos de Kubernetes
+# - terraform/: Infraestructura como código
+# - scripts/: Scripts de deployment

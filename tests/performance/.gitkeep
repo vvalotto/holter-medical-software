@@ -1,0 +1,5 @@
+# Tests de rendimiento para software médico
+# Requisitos:
+# - Análisis ECG: <100ms por segmento de 10 segundos
+# - Comunicación dispositivos: <500ms respuesta
+# - Generación reportes: <5 segundos
